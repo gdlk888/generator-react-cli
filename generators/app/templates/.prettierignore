@@ -1,0 +1,7 @@
+/node_modules
+*.min.js
+.DS_Store
+dist
+dist-ssr
+**/*.svg
+**/*.sh
