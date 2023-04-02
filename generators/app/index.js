@@ -20,7 +20,6 @@ module.exports = class extends Generator {
             '.npmrc',
             '.prettierignore',
             '.prettierrc',
-            'app.js',
             'index.html',
             'package-lock.json',
             'package.json',

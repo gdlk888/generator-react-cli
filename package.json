@@ -1,6 +1,6 @@
 {
-  "name": "generator-sample",
-  "version": "1.0.0",
+  "name": "generator-react-cli-vite",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
