@@ -16,7 +16,6 @@ module.exports = class extends Generator {
     writing() {
         const templates = [
             '.eslintrc.cjs',
-            '.npmrc',
             '.prettierignore',
             '.prettierrc',
             'index.html',
